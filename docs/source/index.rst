@@ -14,5 +14,5 @@ Contents
 
 .. toctree::
 
-   background
-   manual
+   background/background
+   manual/manual
