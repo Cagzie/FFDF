@@ -1,3 +1,5 @@
+.. _home:
+
 Documentation for Full-Field Data Fusion (FFDF)
 ===================================
 
