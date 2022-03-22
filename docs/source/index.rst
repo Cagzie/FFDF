@@ -1,6 +1,6 @@
 .. _home:
 
-Documentation for Full-Field Data Fusion (FFDF)
+Full-Field Data Fusion (FFDF)
 ===================================
 
 **FFDF** is a method for quantitatively comparing and combining full-field data sets.
