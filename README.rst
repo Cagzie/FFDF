@@ -1,4 +1,4 @@
 Full-Field Data Fusion
 =======================================
 
-hosted at <ffdf.readthedocs.io>
+hosted at <https://ffdf.readthedocs.io>
